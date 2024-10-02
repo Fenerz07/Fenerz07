@@ -5,10 +5,9 @@ Hello! I'm Fenerz, a passionate Full Stack Developer and Software Developer with
 
 🚀 About Me
 
-- I love working with JavaScript, Python, Node.js, React, and many more modern technologies.
-- Currently working on several exciting open-source projects.
+- I love working with JavaScript, Python, C#, Nextjs, and many more modern technologies.
+- Currently working on several personal projects.
 - Always looking for new collaboration opportunities and ways to learn something new.
-- Constantly improving my knowledge in Cloud Services, Microservices Architecture, and DevOps.
 - Open to mentorship or being mentored.
 
 🛠️ Top Languages
