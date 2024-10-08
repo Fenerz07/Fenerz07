@@ -17,14 +17,14 @@ Hello! I'm Fenerz, a passionate Full Stack Developer and Software Developer with
 
 🌐 Let's Connect
 
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hugo-matyla/)
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hugo-matyla/)
 Email: hugom2005@free.fr
 Personal Website: fenerz-next.vercel.app
 
 
 ✨ GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fenerz07&show_icons=true&hide=stars&count_private=true&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Fenerz07&show_icons=true&hide=stars&count_private=true&theme=radical)
 
 
 Feel free to explore my repositories, reach out for collaboration, or just say hello! 😊
