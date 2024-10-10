@@ -18,8 +18,7 @@ Hello! I'm Fenerz, a passionate Full Stack Developer and Software Developer with
 🌐 Let's Connect
 
 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hugo-matyla/)
-Email: hugom2005@free.fr
-Personal Website: fenerz-next.vercel.app
+Website: https://fenerz-next.vercel.app
 
 
 ✨ GitHub Stats
