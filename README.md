@@ -1,11 +1,11 @@
 💻 Full Stack | Software Developer
 
-Hello! I'm Fenerz, a passionate Full Stack Developer and Software Developer with expertise in both frontend and backend development. I love solving complex problems, building scalable applications, and staying up-to-date with the latest technologies.
+Hello! I'm Fenerz, a passionate Full Stack Developer with expertise in both frontend and backend development. I love solving problems, building applications, and staying up-to-date with the latest technologies.
 
 
 🚀 About Me
 
-- I love working with C, Python, C#, JavaScript, and many more modern technologies.
+- I love working with C, Python, Next, JavaScript, and many more modern technologies.
 - Currently working on several personal projects.
 - Always looking for new collaboration opportunities and ways to learn something new.
 - Open to mentorship or being mentored.
