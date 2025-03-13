@@ -15,12 +15,6 @@ Hello! I'm Hugo, a passionate Full Stack Developer with expertise in both fronte
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenerz07&layout=compact&theme=radical)
 
 
-🌐 Let's Connect
-
-LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hugo-matyla/)
-Website: [My Website](https://hugomatyla.vercel.app/)
-
-
 ✨ GitHub Stats
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Fenerz07&show_icons=true&hide=stars&count_private=true&theme=radical)
