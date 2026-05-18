@@ -27,13 +27,15 @@ Node.js · APIs · Databases · Authentication
 ### DevOps / Ops
 Linux · Docker · CI/CD · GitHub Actions · Automation · Deployment
 
-## 📊 Top Languages
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenerz07&layout=compact&theme=radical&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenerz07&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-## ✨ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fenerz07&show_icons=true&hide=stars&count_private=true&theme=radical&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fenerz07&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ## 🤝 Let’s Connect
 
